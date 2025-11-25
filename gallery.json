@@ -1,0 +1,124 @@
+{
+    "character": [
+        {
+            "name": "Rimuru Tempest",
+            "image": "rimuru.jpg",
+            "species": "Slime",
+            "desc": "The main protagonist who was reincarnated as a slime in a fantasy world."
+        },
+        {
+            "name": "Shizu",
+            "image": "Shizu.jpg",
+            "species": "Human",
+            "desc": "A mysterious fire spirit summoner who becomes a key ally of Rimuru."
+        },
+        {
+            "name": "Gobta",
+            "image": "gobta.jpg",
+            "species": "Hobgoblin",
+            "desc": "A goblin under Rimuru's leadership, brave and funny in combat."
+        },
+        {
+            "name": "Rigurd",
+            "image": "Rigurd.jpg",
+            "species": "Hobgoblin",
+            "desc": "Goblin chief who becomes a trusted ally of Rimuru."
+        },
+        {
+            "name": "Rigur",
+            "image": "Rigur.jpg",
+            "species": "Goblin",
+            "desc": "Goblin lieutenant and loyal member of Rimuru's forces."
+        },
+        {
+            "name": "Ranga",
+            "image": "Ranga.jpg",
+            "species": "Wolf",
+            "desc": "Rimuru's shadow wolf companion who is extremely loyal and powerful."
+        },
+        {
+            "name": "Benimaru",
+            "image": "Benimaru.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "Rimuru's loyal general with immense strength and combat skills."
+        },
+        {
+            "name": "Shion",
+            "image": "Shion.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "A fiercely loyal ogre and secretary to Rimuru, known for her strength and clumsiness."
+        },
+        {
+            "name": "Souei",
+            "image": "souei.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "A ninja-like ogre with unmatched stealth abilities, loyal to Rimuru."
+        },
+        {
+            "name": "Hakuro",
+            "image": "hakuro.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "A skilled swordsman who trains under Rimuru."
+        },
+        {
+            "name": "Kurobe",
+            "image": "kurobe.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "A swordsman and tactician allied with Rimuru."
+        },
+        {
+            "name": "Gabiru",
+            "image": "Gabiru.jpg",
+            "species": "Ogre/Kijin",
+            "desc": "Stealthy ninja-like servant under Rimuru."
+        },
+        {
+            "name": "Veldora",
+            "image": "veldora.jpg",
+            "species": "Storm Dragon",
+            "desc": "The Storm Dragon Rimuru befriends and later bonds with."
+        },
+        {
+            "name": "Milim Nava",
+            "image": "Milim.jpg",
+            "species": "Dragon",
+            "desc": "One of the strongest demon lords, cheerful and extremely powerful."
+        },
+        {
+            "name": "Treyni",
+            "image": "Treyni.jpg",
+            "species": "Elf",
+            "desc": "A healer elf from the Tempest Federation."
+        },
+        {
+            "name": "Albis",
+            "image": "Albis.jpg",
+            "species": "Elf",
+            "desc": "An elven warrior, ally to Rimuru in Season 1."
+        },
+        {
+            "name": "Vesta",
+            "image": "Vesta.jpg",
+            "species": "Elf",
+            "desc": "An elf skilled in magic, part of the Tempest army."
+        },
+        {
+            "name": "Clayman",
+            "image": "Clayman.jpg",
+            "species": "Orc",
+            "desc": "Leader of the Orcs, major antagonist in Season 1."
+        },
+        {
+            "name": "Geld",
+            "image": "geld.jpg",
+            "species": "Orc",
+            "desc": "A dwarf warrior allied with Rimuru."
+        },
+        {
+            "name": "Diablo",
+            "image": "Diablo.jpg",
+            "species": "Demon",
+            "desc": "A loyal Demon allied with Rimuru."
+        }
+    ]
+}
