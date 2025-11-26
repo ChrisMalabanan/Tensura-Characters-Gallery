@@ -55,16 +55,16 @@
             "desc": "Benimaru's gentle and intelligent younger sister. Princess of the Kijin and master of holy magic and research."
         },
         {
-            "name": "Shion",
-            "image": "Shion.jpg",
-            "species": "Kijin",
-            "desc": "Rimuru's self-proclaimed secretary and bodyguard. Incredibly strong and fiercely loyal (and a terrible cook)."
-        },
-        {
             "name": "Souei",
             "image": "Souei.jpg",
             "species": "Kijin",
             "desc": "Master of stealth and reconnaissance. Leads Tempest's intelligence and shadow squad."
+        },
+        {
+            "name": "Shion",
+            "image": "Shion.jpg",
+            "species": "Kijin",
+            "desc": "Rimuru's self-proclaimed secretary and bodyguard. Incredibly strong and fiercely loyal (and a terrible cook)."
         },
         {
             "name": "Hakuro",
