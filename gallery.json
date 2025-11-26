@@ -2,7 +2,7 @@
     "character": [
         {
             "name": "Rimuru Tempest",
-            "image": "rimuru.jpg",
+            "image": "Rimuru.jpg",
             "species": "Slime / Demon Lord",
             "desc": "The main protagonist who was reincarnated as a slime and eventually becomes one of the strongest beings in the world."
         },
@@ -20,7 +20,7 @@
         },
         {
             "name": "Gobta",
-            "image": "gobta.jpg",
+            "image": "Gobta.jpg",
             "species": "Hobgoblin",
             "desc": "A goblin who evolved into a hobgoblin. Surprisingly brave (and lucky) in combat despite his goofy personality."
         },
@@ -62,19 +62,19 @@
         },
         {
             "name": "Souei",
-            "image": "souei.jpg",
+            "image": "Souei.jpg",
             "species": "Kijin",
             "desc": "Master of stealth and reconnaissance. Leads Tempest's intelligence and shadow squad."
         },
         {
             "name": "Hakuro",
-            "image": "hakuro.jpg",
+            "image": "Hakuro.jpg",
             "species": "Kijin",
             "desc": "Legendary swordmaster and instructor of Tempest's military forces."
         },
         {
             "name": "Kurobe",
-            "image": "kurobe.jpg",
+            "image": "Kurobe.jpg",
             "species": "Kijin",
             "desc": "Tempest's master blacksmith who crafts legendary weapons and equipment."
         },
@@ -86,7 +86,7 @@
         },
         {
             "name": "Veldora",
-            "image": "veldora.jpg",
+            "image": "Veldora.jpg",
             "species": "True Dragon",
             "desc": "The Storm Dragon and Rimuru's first friend. Sealed for 300 years until freed by Rimuru."
         },
