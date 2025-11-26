@@ -27,13 +27,13 @@
         {
             "name": "Rigur",
             "image": "Rigur.jpg",
-            "species": "Goblin",
+            "species": "Hobgoblin",
             "desc": "Goblin lieutenant and loyal member of Rimuru's forces."
         },
         {
             "name": "Ranga",
             "image": "Ranga.jpg",
-            "species": "Wolf",
+            "species": "Tempest star wolf",
             "desc": "Rimuru's shadow wolf companion who is extremely loyal and powerful."
         },
         {
@@ -58,19 +58,19 @@
             "name": "Hakuro",
             "image": "hakuro.jpg",
             "species": "Ogre/Kijin",
-            "desc": "A skilled swordsman who trains under Rimuru."
+            "desc": "A skilled swordsman, duty of being an instructor within Tempest's military department.."
         },
         {
             "name": "Kurobe",
             "image": "kurobe.jpg",
             "species": "Ogre/Kijin",
-            "desc": "A swordsman and tactician allied with Rimuru."
+            "desc": "The top blacksmith of the Jura-Tempest Federation,allied with Rimuru."
         },
         {
             "name": "Gabiru",
             "image": "Gabiru.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "Stealthy ninja-like servant under Rimuru."
+            "species": "Dragonewt",
+            "desc": "Captain of the Hiryuu of Tempest, aerial attack force."
         },
         {
             "name": "Veldora",
@@ -87,38 +87,38 @@
         {
             "name": "Treyni",
             "image": "Treyni.jpg",
-            "species": "Elf",
-            "desc": "A healer elf from the Tempest Federation."
+            "species": "Dryad",
+            "desc": "Dryad that resides in the Jura Forest."
         },
         {
             "name": "Albis",
             "image": "Albis.jpg",
-            "species": "Elf",
-            "desc": "An elven warrior, ally to Rimuru in Season 1."
+            "species": "Beastman",
+            "desc": "Known as the Golden Snake Horn, leader of Eurazania's Three Beastketeers."
         },
         {
             "name": "Vesta",
             "image": "Vesta.jpg",
-            "species": "Elf",
-            "desc": "An elf skilled in magic, part of the Tempest army."
+            "species": "Human",
+            "desc": "Former minister of Dwargon and the current Minister of Science for Tempest."
         },
         {
             "name": "Clayman",
             "image": "Clayman.jpg",
-            "species": "Orc",
-            "desc": "Leader of the Orcs, major antagonist in Season 1."
+            "species": "Deathman",
+            "desc": "Known as the Marionette Master, major antagonist in Season 2."
         },
         {
             "name": "Geld",
-            "image": "geld.jpg",
+            "image": "Geld.jpg",
             "species": "Orc",
-            "desc": "A dwarf warrior allied with Rimuru."
+            "desc": "Orc King, acts as last line of defense, Department of Construction and Manufacturing ."
         },
         {
             "name": "Diablo",
             "image": "Diablo.jpg",
             "species": "Demon",
-            "desc": "A loyal Demon allied with Rimuru."
+            "desc": "Known as Noir, leader of the Black Numbers, a loyal Demon allied with Rimuru."
         }
     ]
 }
