@@ -3,122 +3,146 @@
         {
             "name": "Rimuru Tempest",
             "image": "rimuru.jpg",
-            "species": "Slime",
-            "desc": "The main protagonist who was reincarnated as a slime in a fantasy world."
+            "species": "Slime / Demon Lord",
+            "desc": "The main protagonist who was reincarnated as a slime and eventually becomes one of the strongest beings in the world."
         },
         {
             "name": "Shizu",
             "image": "Shizu.jpg",
-            "species": "Human",
-            "desc": "A mysterious fire spirit summoner who becomes a key ally of Rimuru."
+            "species": "Human (Conjurer)",
+            "desc": "A legendary Conqueror of Flames and the first person Rimuru ever promised to fulfill a wish for."
+        },
+        {
+            "name": "Ciel",
+            "image": "Ciel.jpg",
+            "species": "Manas (Ultimate Intelligence)",
+            "desc": "The ultimate skill and true consciousness that evolved from Raphael. Rimuru's most trusted partner and the core of his power."
         },
         {
             "name": "Gobta",
             "image": "gobta.jpg",
             "species": "Hobgoblin",
-            "desc": "A goblin under Rimuru's leadership, brave and funny in combat."
+            "desc": "A goblin who evolved into a hobgoblin. Surprisingly brave (and lucky) in combat despite his goofy personality."
         },
         {
             "name": "Rigurd",
             "image": "Rigurd.jpg",
             "species": "Hobgoblin",
-            "desc": "Goblin chief who becomes a trusted ally of Rimuru."
+            "desc": "The wise and respected elder of the goblin village who becomes Minister of Internal Affairs in Tempest."
         },
         {
             "name": "Rigur",
             "image": "Rigur.jpg",
             "species": "Hobgoblin",
-            "desc": "Goblin lieutenant and loyal member of Rimuru's forces."
+            "desc": "Captain of Tempest's security forces and Rigurd's son. Extremely loyal to Rimuru."
         },
         {
             "name": "Ranga",
             "image": "Ranga.jpg",
-            "species": "Tempest star wolf",
-            "desc": "Rimuru's shadow wolf companion who is extremely loyal and powerful."
+            "species": "Tempest Star Wolf",
+            "desc": "Rimuru's loyal direwolf companion who evolved into a majestic Tempest Star Wolf."
         },
         {
             "name": "Benimaru",
             "image": "Benimaru.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "Rimuru's loyal general with immense strength and combat skills."
+            "species": "Kijin",
+            "desc": "Commander-in-Chief of Tempest's army. Calm, powerful, and one of Rimuru's most trusted generals."
+        },
+        {
+            "name": "Shuna",
+            "image": "Shuna.jpg",
+            "species": "Kijin",
+            "desc": "Benimaru's gentle and intelligent younger sister. Princess of the Kijin and master of holy magic and research."
         },
         {
             "name": "Shion",
             "image": "Shion.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "A fiercely loyal ogre and secretary to Rimuru, known for her strength and clumsiness."
+            "species": "Kijin",
+            "desc": "Rimuru's self-proclaimed secretary and bodyguard. Incredibly strong and fiercely loyal (and a terrible cook)."
         },
         {
             "name": "Souei",
             "image": "souei.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "A ninja-like ogre with unmatched stealth abilities, loyal to Rimuru."
+            "species": "Kijin",
+            "desc": "Master of stealth and reconnaissance. Leads Tempest's intelligence and shadow squad."
         },
         {
             "name": "Hakuro",
             "image": "hakuro.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "A skilled swordsman, duty of being an instructor within Tempest's military department.."
+            "species": "Kijin",
+            "desc": "Legendary swordmaster and instructor of Tempest's military forces."
         },
         {
             "name": "Kurobe",
             "image": "kurobe.jpg",
-            "species": "Ogre/Kijin",
-            "desc": "The top blacksmith of the Jura-Tempest Federation,allied with Rimuru."
+            "species": "Kijin",
+            "desc": "Tempest's master blacksmith who crafts legendary weapons and equipment."
         },
         {
             "name": "Gabiru",
             "image": "Gabiru.jpg",
             "species": "Dragonewt",
-            "desc": "Captain of the Hiryuu of Tempest, aerial attack force."
+            "desc": "Proud and dramatic captain of the dragonewt Hiryuu aerial forces."
         },
         {
             "name": "Veldora",
             "image": "veldora.jpg",
-            "species": "Storm Dragon",
-            "desc": "The Storm Dragon Rimuru befriends and later bonds with."
+            "species": "True Dragon",
+            "desc": "The Storm Dragon and Rimuru's first friend. Sealed for 300 years until freed by Rimuru."
         },
         {
             "name": "Milim Nava",
             "image": "Milim.jpg",
-            "species": "Dragon",
-            "desc": "One of the strongest demon lords, cheerful and extremely powerful."
+            "species": "Demon Lord",
+            "desc": "The Destroyer — one of the oldest and strongest Demon Lords with a childlike personality."
+        },
+        {
+            "name": "Ramiris",
+            "image": "Ramiris.jpg",
+            "species": "Fairy (Demon Lord)",
+            "desc": "The Fairy Queen and ruler of the Labyrinth. Ancient Demon Lord of tiny stature but immense knowledge."
+        },
+        {
+            "name": "Hinata Sakaguchi",
+            "image": "Hinata.jpg",
+            "species": "Saint / Human",
+            "desc": "Captain of the Holy Knights and leader of the Western Holy Church's Ten Great Saints. A former Japanese otherworlder."
         },
         {
             "name": "Treyni",
             "image": "Treyni.jpg",
             "species": "Dryad",
-            "desc": "Dryad that resides in the Jura Forest."
+            "desc": "Guardian of the Jura Forest who entrusted its protection to Rimuru."
         },
         {
             "name": "Albis",
             "image": "Albis.jpg",
-            "species": "Beastman",
-            "desc": "Known as the Golden Snake Horn, leader of Eurazania's Three Beastketeers."
+            "species": "Beastman (Serpent)",
+            "desc": "Captain of Eurazania's Three Beastketeers, known as Golden Snake Horn."
         },
         {
             "name": "Vesta",
             "image": "Vesta.jpg",
             "species": "Human",
-            "desc": "Former minister of Dwargon and the current Minister of Science for Tempest."
+            "desc": "Former minister of Dwargon, now Minister of Science and Research in Tempest."
         },
         {
             "name": "Clayman",
             "image": "Clayman.jpg",
-            "species": "Deathman",
-            "desc": "Known as the Marionette Master, major antagonist in Season 2."
+            "species": "Deathman (Demon Lord)",
+            "desc": "The Marionette Master — cunning and manipulative antagonist."
         },
         {
             "name": "Geld",
             "image": "Geld.jpg",
-            "species": "Orc",
-            "desc": "Orc King, acts as last line of defense, Department of Construction and Manufacturing ."
+            "species": "High Orc",
+            "desc": "King of the orcs, now Minister of Construction and one of Tempest's strongest defenders."
         },
         {
             "name": "Diablo",
             "image": "Diablo.jpg",
-            "species": "Demon",
-            "desc": "Known as Noir, leader of the Black Numbers, a loyal Demon allied with Rimuru."
+            "species": "Primordial Demon",
+            "desc": "The primordial demon Noir. Rimuru's devoted butler and leader of the Black Numbers."
         }
     ]
 }

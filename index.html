@@ -14,49 +14,55 @@
 
 <body>
 
-  <!-- HERO SECTION -->
   <div class="hero-container">
-    <img src="images/hero.jpg" class="fullscreen-img">
+    <img src="images/hero.jpg" class="fullscreen-img" alt="Tensura Hero">
     <div class="overlay"></div>
+
     <div class="hero-text">Tensura Characters Gallery</div>
-    <div class="hero-description">
-      Tensura, short for <strong>"Tensei Shitara Slime Datta Ken"</strong>, is a popular anime and light novel series
-      about a man reincarnated as a slime in a fantasy world. Follow Rimuru and friends as they build a kingdom, meet
-      powerful allies, and face epic adventures!
+
+    <div class="hero-description position-absolute start-50 translate-middle-x text-center px-3 px-md-4 px-lg-5">
+      <p class="lead mb-0 
+             fs-5 fs-sm-4 fs-md-3 fs-lg-2 fs-xl-1 
+             text-white 
+             text-shadow-hero 
+             lh-base">
+        Tensura, short for <strong>"Tensei Shitara Slime Datta Ken"</strong>, is a popular anime and light novel series
+        about a man reincarnated as a slime in a fantasy world. Follow Rimuru and friends as they build a kingdom, meet
+        powerful allies, and face epic adventures!
+      </p>
     </div>
-  </div>
 
-  <!-- GALLERY SECTION -->
-  <div class="gallery-section">
-    <div class="container">
-      <h2 class="gallery-title">Character Gallery</h2>
-      <div class="row g-4" id="containerRow"></div>
+    <div class="gallery-section">
+      <div class="container">
+        <h2 class="gallery-title">Character Gallery</h2>
+        <div class="row g-4" id="containerRow"></div>
+      </div>
     </div>
-  </div>
 
-  <!-- FOOTER -->
-  <footer>© 2025 Tensura Gallery</footer>
+    <footer>
+      <div class="slime-accent">✦</div>
+      <p>© 2025 Tensura Characters Gallery — Made with love for the Nation of Tempest</p>
+    </footer>
 
-  <!-- JS CODE -->
-  <script>
-    let characters = [];
-    let pictures = [];
-    let species = [];
-    let desc = [];
+    <script>
+      let characters = [];
+      let pictures = [];
+      let species = [];
+      let desc = [];
 
-    fetch("gallery.json")
-      .then(response => response.json())
-      .then(jsonData => {
-        characters = jsonData.character.map(p => p.name);
-        pictures = jsonData.character.map(p => p.image);
-        species = jsonData.character.map(p => p.species);
-        desc = jsonData.character.map(p => p.desc);
+      fetch("gallery.json")
+        .then(response => response.json())
+        .then(jsonData => {
+          characters = jsonData.character.map(p => p.name);
+          pictures = jsonData.character.map(p => p.image);
+          species = jsonData.character.map(p => p.species);
+          desc = jsonData.character.map(p => p.desc);
 
-        const containerRow = document.getElementById("containerRow");
+          const containerRow = document.getElementById("containerRow");
 
-        for (let i = 0; i < characters.length; i++) {
-          containerRow.innerHTML += `
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          for (let i = 0; i < characters.length; i++) {
+            containerRow.innerHTML += `
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4">   <!-- ← only change: added mb-4 -->
               <div class="card-wrapper">
                 <div class="card text-center">
                   <img src="images/${pictures[i]}" class="card-img-top">
@@ -69,12 +75,11 @@
               </div>
             </div>
           `;
-        }
-      })
-      .catch(error => console.error("Error loading JSON:", error));
-  </script>
+          }
+        })
+        .catch(error => console.error("Error loading JSON:", error));
+    </script>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
